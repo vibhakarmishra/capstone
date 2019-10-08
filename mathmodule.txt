@@ -1,4 +1,6 @@
 x=input("Enter number to be squared")
+z=1;
 if x>0:
 y= x*x;
 print("squared number is:", y)
+print(z)
